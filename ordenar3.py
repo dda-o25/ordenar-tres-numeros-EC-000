@@ -1,5 +1,6 @@
 """
-Inserta el encabezado aquí y escribe tu código abajo
+El propósito de este programa es dado 3 números dados, este los organiza de acuerdo de mayor a menor
+Eduardo Caleb Castillo Llanas 18/Sep/25
 """
 # Declaraciones
 numeros = []
